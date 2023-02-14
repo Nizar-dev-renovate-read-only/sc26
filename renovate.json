@@ -3,4 +3,5 @@
   "semanticCommits": "enabled",
    "extends": [
     "config:base"
+     [
 }
